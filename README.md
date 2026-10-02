@@ -135,10 +135,10 @@ Demo video: `<add link>`
 
 | Name | Role |
 |---|---|
-| `<name>` | `<role>` |
-| `<name>` | `<role>` |
+| `<Shrejal Mishra>` | `<Team Leader>` |
+| `<Vishal Pandey>` | `<Member>` |
 
-Team name: `<team name>`
+Team name: `<The Rama Regiment>`
 
 ## Credits
 
